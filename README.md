@@ -10,20 +10,20 @@ Suppose, we have 3 models. Each model is a folder of 3 files: 2 texts and 1 bina
 So, we have a file tree like that:
 
 - Model1
-  -model.pkl
-  -otherfile.txt
-  -otherfile2.txt
+  - model.pkl
+  - otherfile.txt
+  - otherfile2.txt
 
 - Model2
-  -model.pkl
-  -otherfile.txt
-  -otherfile2.txt
+  - model.pkl
+  - otherfile.txt
+  - otherfile2.txt
   
   
 - Model3
-  -model.pkl
-  -otherfile.txt
-  -otherfile2.txt
+  - model.pkl
+  - otherfile.txt
+  - otherfile2.txt
  
  We want to download them the same way. This is what this small project is about.
  
